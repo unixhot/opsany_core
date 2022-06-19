@@ -1,2 +1,1 @@
-# opsany_core
-opsany_core
+st2 pack opsany core 
